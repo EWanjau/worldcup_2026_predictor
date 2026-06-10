@@ -1,0 +1,24 @@
+year,host,champion,file
+1930,['Uruguay'],Uruguay,tournaments/1930.json
+1934,['Italy'],Italy,tournaments/1934.json
+1938,['France'],Italy,tournaments/1938.json
+1950,['Brazil'],Uruguay,tournaments/1950.json
+1954,['Switzerland'],West Germany,tournaments/1954.json
+1958,['Sweden'],Brazil,tournaments/1958.json
+1962,['Chile'],Brazil,tournaments/1962.json
+1966,['England'],England,tournaments/1966.json
+1970,['Mexico'],Brazil,tournaments/1970.json
+1974,['West Germany'],West Germany,tournaments/1974.json
+1978,['Argentina'],Argentina,tournaments/1978.json
+1982,['Spain'],Italy,tournaments/1982.json
+1986,['Mexico'],Argentina,tournaments/1986.json
+1990,['Italy'],West Germany,tournaments/1990.json
+1994,['United States'],Brazil,tournaments/1994.json
+1998,['France'],France,tournaments/1998.json
+2002,"['South Korea', 'Japan']",Brazil,tournaments/2002.json
+2006,['Germany'],Italy,tournaments/2006.json
+2010,['South Africa'],Spain,tournaments/2010.json
+2014,['Brazil'],Germany,tournaments/2014.json
+2018,['Russia'],France,tournaments/2018.json
+2022,['Qatar'],Argentina,tournaments/2022.json
+2026,"['United States', 'Canada', 'Mexico']",,tournaments/2026.json
