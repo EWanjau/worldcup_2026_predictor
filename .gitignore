@@ -1,12 +1,104 @@
+# Python environment
 .python-version
-
 .venv/
+env/
+venv/
+models/
+# Virtual environment and dependencies
+.env
+.env.local
 
-env
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
 
-config.py
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-API Reference · Zafronix WC API.html
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.tox/
+.hypothesis/
 
+# CatBoost training artifacts
+catboost_info/
+*.cbm
+
+# Model artifacts and cache
+models/worldcup_predictor/
+*.pkl
+*.pickle
+*.joblib
+
+# Data files
+data/raw/*.csv
+data/processed/
+*.xlsx
+*.xls
+
+# Notebooks and temporary files
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
 worlcup_matches_json
+*.json.bak
+
+# Configuration and secrets
+config.py
+.env.secrets
+credentials.json
+API*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+*.pot
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# User-specific
+.vscode/settings.json
+.idea/
+workspace.xml
 

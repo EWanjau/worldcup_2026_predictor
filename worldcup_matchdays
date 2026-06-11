@@ -1,0 +1,156 @@
+World Cup 2026 Matches Organized by Matchday
+
+MATCHDAY 1
+==========
+
+Group A:
+  {"group":"A","home_team":"Mexico","away_team":"South Africa","matchday":1}
+  {"group":"A","home_team":"South Korea","away_team":"Czechia","matchday":1}
+
+Group B:
+  {"group":"B","home_team":"Canada","away_team":"Bosnia","matchday":1}
+  {"group":"B","home_team":"Qatar","away_team":"Switzerland","matchday":1}
+
+Group C:
+  {"group":"C","home_team":"Brazil","away_team":"Morocco","matchday":1}
+  {"group":"C","home_team":"Haiti","away_team":"Scotland","matchday":1}
+
+Group D:
+  {"group":"D","home_team":"USA","away_team":"Paraguay","matchday":1}
+  {"group":"D","home_team":"Australia","away_team":"Turkiye","matchday":1}
+
+Group E:
+  {"group":"E","home_team":"Germany","away_team":"Curacao","matchday":1}
+  {"group":"E","home_team":"Ivory Coast","away_team":"Ecuador","matchday":1}
+
+Group F:
+  {"group":"F","home_team":"Netherlands","away_team":"Japan","matchday":1}
+  {"group":"F","home_team":"Sweden","away_team":"Tunisia","matchday":1}
+
+Group G:
+  {"group":"G","home_team":"Belgium","away_team":"Egypt","matchday":1}
+  {"group":"G","home_team":"Iran","away_team":"New Zealand","matchday":1}
+
+Group H:
+  {"group":"H","home_team":"Spain","away_team":"Cape Verde","matchday":1}
+  {"group":"H","home_team":"Saudi Arabia","away_team":"Uruguay","matchday":1}
+
+Group I:
+  {"group":"I","home_team":"France","away_team":"Senegal","matchday":1}
+  {"group":"I","home_team":"Iraq","away_team":"Norway","matchday":1}
+
+Group J:
+  {"group":"J","home_team":"Argentina","away_team":"Algeria","matchday":1}
+  {"group":"J","home_team":"Austria","away_team":"Jordan","matchday":1}
+
+Group K:
+  {"group":"K","home_team":"Portugal","away_team":"DRC","matchday":1}
+  {"group":"K","home_team":"Uzbekistan","away_team":"Colombia","matchday":1}
+
+Group L:
+  {"group":"L","home_team":"England","away_team":"Croatia","matchday":1}
+  {"group":"L","home_team":"Ghana","away_team":"Panama","matchday":1}
+
+
+MATCHDAY 2
+==========
+
+Group A:
+  {"group":"A","home_team":"Czechia","away_team":"South Africa","matchday":2}
+  {"group":"A","home_team":"Mexico","away_team":"South Korea","matchday":2}
+
+Group B:
+  {"group":"B","home_team":"Switzerland","away_team":"Bosnia","matchday":2}
+  {"group":"B","home_team":"Canada","away_team":"Qatar","matchday":2}
+
+Group C:
+  {"group":"C","home_team":"Scotland","away_team":"Morocco","matchday":2}
+  {"group":"C","home_team":"Brazil","away_team":"Haiti","matchday":2}
+
+Group D:
+  {"group":"D","home_team":"USA","away_team":"Australia","matchday":2}
+  {"group":"D","home_team":"Turkiye","away_team":"Paraguay","matchday":2}
+
+Group E:
+  {"group":"E","home_team":"Germany","away_team":"Ivory Coast","matchday":2}
+  {"group":"E","home_team":"Ecuador","away_team":"Curacao","matchday":2}
+
+Group F:
+  {"group":"F","home_team":"Netherlands","away_team":"Sweden","matchday":2}
+  {"group":"F","home_team":"Tunisia","away_team":"Japan","matchday":2}
+
+Group G:
+  {"group":"G","home_team":"Belgium","away_team":"Iran","matchday":2}
+  {"group":"G","home_team":"New Zealand","away_team":"Egypt","matchday":2}
+
+Group H:
+  {"group":"H","home_team":"Spain","away_team":"Saudi Arabia","matchday":2}
+  {"group":"H","home_team":"Uruguay","away_team":"Cape Verde","matchday":2}
+
+Group I:
+  {"group":"I","home_team":"France","away_team":"Iraq","matchday":2}
+  {"group":"I","home_team":"Norway","away_team":"Senegal","matchday":2}
+
+Group J:
+  {"group":"J","home_team":"Argentina","away_team":"Austria","matchday":2}
+  {"group":"J","home_team":"Jordan","away_team":"Algeria","matchday":2}
+
+Group K:
+  {"group":"K","home_team":"Portugal","away_team":"Uzbekistan","matchday":2}
+  {"group":"K","home_team":"Colombia","away_team":"DRC","matchday":2}
+
+Group L:
+  {"group":"L","home_team":"England","away_team":"Ghana","matchday":2}
+  {"group":"L","home_team":"Panama","away_team":"Croatia","matchday":2}
+
+
+MATCHDAY 3
+==========
+
+Group A:
+  {"group":"A","home_team":"Czechia","away_team":"Mexico","matchday":3}
+  {"group":"A","home_team":"South Africa","away_team":"South Korea","matchday":3}
+
+Group B:
+  {"group":"B","home_team":"Switzerland","away_team":"Canada","matchday":3}
+  {"group":"B","home_team":"Bosnia","away_team":"Qatar","matchday":3}
+
+Group C:
+  {"group":"C","home_team":"Scotland","away_team":"Brazil","matchday":3}
+  {"group":"C","home_team":"Morocco","away_team":"Haiti","matchday":3}
+
+Group D:
+  {"group":"D","home_team":"Turkiye","away_team":"USA","matchday":3}
+  {"group":"D","home_team":"Paraguay","away_team":"Australia","matchday":3}
+
+Group E:
+  {"group":"E","home_team":"Ecuador","away_team":"Germany","matchday":3}
+  {"group":"E","home_team":"Curacao","away_team":"Ivory Coast","matchday":3}
+
+Group F:
+  {"group":"F","home_team":"Japan","away_team":"Sweden","matchday":3}
+  {"group":"F","home_team":"Tunisia","away_team":"Netherlands","matchday":3}
+
+Group G:
+  {"group":"G","home_team":"Egypt","away_team":"Iran","matchday":3}
+  {"group":"G","home_team":"New Zealand","away_team":"Belgium","matchday":3}
+
+Group H:
+  {"group":"H","home_team":"Cape Verde","away_team":"Saudi Arabia","matchday":3}
+  {"group":"H","home_team":"Uruguay","away_team":"Spain","matchday":3}
+
+Group I:
+  {"group":"I","home_team":"Norway","away_team":"France","matchday":3}
+  {"group":"I","home_team":"Senegal","away_team":"Iraq","matchday":3}
+
+Group J:
+  {"group":"J","home_team":"Algeria","away_team":"Austria","matchday":3}
+  {"group":"J","home_team":"Jordan","away_team":"Argentina","matchday":3}
+
+Group K:
+  {"group":"K","home_team":"Colombia","away_team":"Portugal","matchday":3}
+  {"group":"K","home_team":"DRC","away_team":"Uzbekistan","matchday":3}
+
+Group L:
+  {"group":"L","home_team":"Panama","away_team":"England","matchday":3}
+  {"group":"L","home_team":"Croatia","away_team":"Ghana","matchday":3}
