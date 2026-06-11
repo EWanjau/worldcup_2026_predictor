@@ -1,8 +1,8 @@
 import streamlit as st
 
-from src.streamlit_utils import load_predictor
+from src.streamlit_utils import load_predictor, _get_model_version
 
-predictor = load_predictor()
+predictor = load_predictor(_get_model_version())
 
 st.title("⚽ Match Predictor")
 
