@@ -307,17 +307,3 @@ To improve predictions:
 4. Implement player-level features
 5. Add weather/altitude factors
 6. Incorporate betting odds as features
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-For questions or issues, contact: [Your contact information]
-
----
-
-**Last Updated:** June 2026
-**Model Version:** 1.0
-**Data Through:** 2022 World Cup
