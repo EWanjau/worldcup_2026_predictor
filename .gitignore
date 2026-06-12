@@ -54,9 +54,6 @@ coverage.xml
 .tox/
 .hypothesis/
 
-# CatBoost training artifacts
-catboost_info/
-*.cbm
 
 # Data files
 data/raw/*.csv
