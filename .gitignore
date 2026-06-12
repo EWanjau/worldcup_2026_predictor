@@ -58,12 +58,6 @@ coverage.xml
 catboost_info/
 *.cbm
 
-# Model artifacts and cache
-models/worldcup_predictor/
-*.pkl
-*.pickle
-*.joblib
-
 # Data files
 data/raw/*.csv
 data/processed/
