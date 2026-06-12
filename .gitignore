@@ -3,7 +3,6 @@
 .venv/
 env/
 venv/
-models/
 # Virtual environment and dependencies
 .env
 .env.local
